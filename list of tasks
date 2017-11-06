@@ -1,2 +1,13 @@
 This is a to do list. 
 What are the most widely accepted methods of developing a software application.
+
+[Python Machine Learning - scikit-learn] (http://scikit-learn.org/stable/)
+List of types of machine learning algorthims
+* **Classification**
+* **Regression**
+* **Clustering**
+* **Dimensionality reduction**
+* **Model selection**
+* **Preprocessing**
+
+List of useful machine learning application:
